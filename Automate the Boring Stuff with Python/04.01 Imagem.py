@@ -1,5 +1,4 @@
-"Exercício da paágina 141"
-"Grade para imagem composta de caracteres"
+"Second exercice form page 141"
 
 grid = [['.', '.', '.', '.', '.', '.'],
         ['.', 'O', 'O', '.', '.', '.'],
@@ -11,9 +10,9 @@ grid = [['.', '.', '.', '.', '.', '.'],
         ['.', 'O', 'O', '.', '.', '.'],
         ['.', '.', '.', '.', '.', '.']]
 
-for coluna in range(len(grid[0])):
+for column in range(len(grid[0])):
     print(end='\n')
-    for linha in range(len(grid)):
-        variavelLinha = grid[linha]
-        print(variavelLinha[coluna], end='')
+    for line in range(len(grid)):
+        varLine = grid[line]
+        print(varLine[column], end='')
         
