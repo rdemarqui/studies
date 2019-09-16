@@ -1,4 +1,4 @@
-"Second exercice form page 141"
+"Second exercice from page 141"
 
 grid = [['.', '.', '.', '.', '.', '.'],
         ['.', 'O', 'O', '.', '.', '.'],
