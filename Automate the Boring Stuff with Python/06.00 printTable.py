@@ -13,8 +13,6 @@ for column in range(len(tableData[0])):
     for line in range(len(tableData)):
         print(tableData[line][column].rjust(colWidths[line]), end = ' ')
         
-    print('')
-
-        
+    print()
         
         
