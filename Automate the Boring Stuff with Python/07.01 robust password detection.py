@@ -1,7 +1,7 @@
 #! python
 # Script to detect a robust password
 
-import re
+from re import compile, search
 
 # password input
 
