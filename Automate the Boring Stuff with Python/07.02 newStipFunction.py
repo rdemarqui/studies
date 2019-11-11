@@ -1,7 +1,7 @@
 #! python3
 # New strip function
 
-import re
+from re import compile, sub
 
 def RegexStrip(mainString, charsToBeRemoved=None):
     if(charsToBeRemoved!=None):
