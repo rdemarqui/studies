@@ -1,2 +1,2 @@
 # Studies
-This repository it's just store short daily base studies. No obligations here.
+This repository is only for storing small daily studies. There are no obligations here.
